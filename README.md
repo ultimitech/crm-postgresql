@@ -1,8 +1,8 @@
 # CRM SQL Data Model
-Portfolio Demo Project: ansible-vagrant-docker-virtualbox
-Project Id: UTS01
-Kind: DevOps
-Tutorial Blog Entry: http://stefan.software/uts1
+Portfolio Demo Project: ansible-vagrant-docker-virtualbox<br>
+Project Id: UTS01<br>
+Kind: DevOps<br>
+Tutorial Blog Entry: http://stefan.software/uts1<br>
 
 ## Entity Relationship Modeling in PostgreSQL
 
