@@ -1,5 +1,5 @@
 # CRM SQL Data Model
-asdf
+Tutorial Blog Entry: http://stefan.software/uts1
 
 ## Entity Relationship Modeling in PostgreSQL
 
